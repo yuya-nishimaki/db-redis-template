@@ -1,0 +1,7 @@
+.DS_Store
+mysql/data/*
+redis/data/*
+redisinsight/*
+!redis/data/.gitkeep
+!mysql/data/.gitkeep
+!redisinsight/.gitkeep
